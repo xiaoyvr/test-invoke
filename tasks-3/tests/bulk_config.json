@@ -1,0 +1,10 @@
+[
+  {
+    "name": "tests/subnet_id",
+    "out_env_var": "SUBNET_ID"
+  },
+  {
+    "name": "tests/vpc_id",
+    "out_env_var": "VPC_ID"
+  }
+]
